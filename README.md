@@ -4,6 +4,8 @@
 
 Annuncio is a multimodal application designed to generate product advertisements using the power of Aria and Allegro AI models. It allows users to create detailed product descriptions and promotional videos seamlessly, integrating Streamlit as the web framework and providing an easy-to-use API for interaction.
 
+[Demo Video](https://lablab.ai/event/aria-multimodal-hackathon/importbrain/annuncio-revolutionize-ad-generation-with-ai-magic)
+
 ## 🚀 Features
 
 - **Product Data Generation**: Utilize the Aria model to generate comprehensive product description based on input parameters such as product name, description and image.
